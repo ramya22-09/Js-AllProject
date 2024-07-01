@@ -1,0 +1,13 @@
+.PeaceTimer{
+    background-color:bisque;
+    border-radius: 20px;
+}
+.btn{
+    padding: 10px;
+    background-color: blue;
+    border-radius: 10px;
+}
+.bg-contanier{
+    background:linear-gradient(#189ffd,#29f39c) ;
+    height:100vh;
+}

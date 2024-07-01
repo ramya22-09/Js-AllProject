@@ -1,0 +1,22 @@
+.button{
+    margin-left: 10px;
+    background-color: blue;
+    color:white;
+    border-radius: 5px;
+}
+.checked{
+    text-decoration: line-through;
+}
+
+.visible
+{
+    color:green;
+}
+.button1{
+    color:white;
+    background-color: red;
+    border-radius: 5px;
+    margin-left: 8px;
+    border-width: 0px;
+    margin-bottom: 8px;
+}

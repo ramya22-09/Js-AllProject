@@ -1,0 +1,21 @@
+.word-cloud-container{
+    height:100vh;
+    padding:20px;
+}
+.user-input{
+    width:60%;
+}
+.add-btn{
+    color:white;
+    background-color: blueviolet;
+    border-width: 0px;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.error-msg{
+    color:brown;
+    font-size: 14px;
+}

@@ -1,0 +1,30 @@
+.guess-img{
+    height:250px;
+    width:250px;
+}
+.guesscontantier{
+    background-color: blue;
+    color:white;
+
+}
+.guess-number{
+    height:100px;
+    width:100px;
+}
+.text1{
+    width:300px;
+    height:50px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    border:none;
+}
+.check-box{
+    height:30px;
+    width:100px;
+    border-radius: 5px;
+    color:black;
+    margin-bottom: 5px;
+    background-color: cadetblue;
+    border: none;
+    margin-bottom:7px;
+}

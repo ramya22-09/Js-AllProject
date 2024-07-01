@@ -1,0 +1,51 @@
+
+.fullbody{
+    margin-top:100px;
+
+
+}
+.green{
+    
+    border-radius: 10px;
+    padding:10px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: green;
+    margin-right: 10px;
+}
+.pink{
+border-radius: 10px;
+padding:10px;
+padding-top: 25px;
+padding-bottom: 25px;
+background-color: pink;
+margin-right: 10px;
+}
+.white{
+    border-radius: 10px;
+    padding:10px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: white;
+    margin-right: 10px;
+    
+}
+.orange{
+    border-radius: 10px;
+    padding:10px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: orange;
+    margin-right: 10px;
+}
+.box{
+    background-color: black;
+    color:white;
+    height:40px;
+    width:350px;
+    margin:auto;
+    margin-top: 50px;
+}
+.num{
+    color:blue;
+}

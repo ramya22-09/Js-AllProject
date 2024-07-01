@@ -1,0 +1,24 @@
+.backgcontanier{
+    background-color: darkcyan;
+    height:100vh;
+
+}
+.headingstyle{
+    color:white;
+    text-align: center;
+    font-family: "roboto";
+}
+.unorderlist1{
+    background-color: white;
+    color:black;
+    padding-top: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+    font-family: "roboto";
+}
+.labelstyle{
+  color:white;
+  padding-left:10px;
+} 
+    

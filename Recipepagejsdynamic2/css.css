@@ -1,0 +1,18 @@
+.heading{
+    text-align: center;
+    color: chocolate;
+}
+.imageee{
+   height:370px;
+   width:350px;
+   margin-bottom: 10px;
+}
+
+
+.bgcontanier1{
+    background-image:linear-gradient(#09203f,#537895);
+    color:white;
+    border-radius: 16px;
+    padding: 10px;
+
+}

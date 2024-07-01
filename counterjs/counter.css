@@ -1,0 +1,24 @@
+.section {
+    background-color: blanchedalmond;
+    height:100vh;
+
+}
+.contanier1{
+    color:black;
+    background-color:lavender;
+    border-radius: 15px;
+    height:300px;
+    width:400px;
+    margin:auto;
+}
+.stylingzero{
+    font-size: 75px;
+    font-weight: 900;
+    
+}
+.button{
+    height:40px;
+    width:80px;
+    margin-bottom: 15px;
+    margin-right:15px;
+}

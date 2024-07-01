@@ -1,0 +1,44 @@
+.chatbot-heading{
+    color:#323f4b;
+    font-family:"roboto";
+    font-size: 30px;
+}
+
+.image{
+    width:150px;
+}
+.chat-contanier{
+    padding:10px;
+}
+.msg-to-chatbot-contanier{
+    text-align: right;
+    margin-top: 10px;
+    margin-bottom:10px;
+    
+}
+.msg-to-chatbot{
+    background-color: #cbd2d9;
+    font-family: "roboto";
+    font-weight: 900;
+    border-radius: 16px;
+    padding:10px;
+    margin-left: 500px;
+    
+
+}
+.msg-to-chatbot-contanierl{
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom:10px;
+    
+}
+.msg-to-chatbotl{
+    background-color: #cbd2d9;
+    font-family: "roboto";
+    font-weight: 900;
+    border-radius: 16px;
+    padding:10px;
+    margin-right: 500px;
+    
+
+}

@@ -1,0 +1,16 @@
+.bgc{
+    background-color: darkorchid;
+    height:100vh;
+}
+.namme{
+    color:aliceblue;
+    text-align: center;
+    font-family:"roboto";
+    font-weight:800;
+    margin-top: 20px;
+}
+.img1{
+    margin: auto;
+    width:200px;
+    padding-top: 50px;
+}

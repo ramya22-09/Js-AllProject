@@ -1,0 +1,19 @@
+.bg-contanier{
+    height:100vh;
+    background-color: cadetblue;
+}
+.tex1{
+    margin-top: 40px;
+    color:blue;
+    text-align: center;
+
+}
+.size{
+    font-size: large;
+    font-weight: 800;
+    
+}
+.image{
+    width:100px;
+    margin-top:10px ;
+}
